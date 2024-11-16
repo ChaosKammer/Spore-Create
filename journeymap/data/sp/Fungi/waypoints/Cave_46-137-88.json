@@ -1,0 +1,22 @@
+{
+  "id": "Cave_46-137-88",
+  "name": "Cave",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12311113-waypoint-icon.png",
+  "x": 46,
+  "y": 137,
+  "z": -88,
+  "r": 68,
+  "g": 37,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

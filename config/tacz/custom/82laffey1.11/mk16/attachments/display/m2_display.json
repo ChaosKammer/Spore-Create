@@ -1,0 +1,19 @@
+{
+  "slot": "mk16:attachment/slot/m2",
+  "model": "mk16:attachment/m2_geo",
+  "texture": "mk16:attachment/uv/m2",
+  "lod": {
+    "model": "mk16:attachment/lod/m2",
+    "texture": "mk16:attachment/lod/m2"
+  },
+  "zoom": [
+    2.0
+  ],
+  "scope": true,
+  "sight": false,
+  "fov": 50.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

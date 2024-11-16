@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.sr15.name",
+    "display": "mk16:sr15_display",
+    "data": "mk16:sr15_data",
+    "tooltip": "mk16.gun.sr15.desc",
+    "type": "rifle",
+    "sort": 1
+}

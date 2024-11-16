@@ -1,0 +1,22 @@
+{
+  "id": "пещера_-2045-61-79",
+  "name": "пещера",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15238261-waypoint-icon.png",
+  "x": -2045,
+  "y": 61,
+  "z": -79,
+  "r": 23,
+  "g": 123,
+  "b": 139,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -15238261,
+  "customIconColor": false
+}

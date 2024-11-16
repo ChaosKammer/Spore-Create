@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 89
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 17
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 37
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 25
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mk16:rpk16"
+  }
+}

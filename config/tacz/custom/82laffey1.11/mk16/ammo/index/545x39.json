@@ -1,0 +1,6 @@
+{
+  "name": "mk16.ammo.545x39.name",
+  "display": "mk16:545x39_display",
+  // 堆叠数量
+  "stack_size": 60
+}

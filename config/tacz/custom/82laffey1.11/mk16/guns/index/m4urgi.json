@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.m4urgi.name",
+    "display": "mk16:m4urgi_display",
+    "data": "mk16:m4urgi_data",
+    "tooltip": "mk16.gun.m4.desc",
+    "type": "rifle",
+    "sort": 2
+}

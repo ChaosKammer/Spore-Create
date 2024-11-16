@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.hbar.name",
+    "display": "mk16:hbar_display",
+    "data": "mk16:hbar_data",
+    "tooltip": "mk16.gun.hbar.desc",
+    "type": "mg",
+    "sort": 3
+}

@@ -1,0 +1,6 @@
+{
+  "name": "mk16.attachment.phone.name",
+  "display": "mk16:phone_display",
+  "data": "mk16:phone_data",
+  "type": "scope"
+}

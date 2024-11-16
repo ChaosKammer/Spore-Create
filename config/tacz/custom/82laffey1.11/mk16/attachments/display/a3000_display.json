@@ -1,0 +1,19 @@
+{
+  "slot": "mk16:attachment/slot/a3000",
+  "model": "mk16:attachment/a3000_geo",
+  "texture": "mk16:attachment/uv/3000",
+  "lod": {
+    "model": "mk16:attachment/lod/a3000",
+    "texture": "mk16:attachment/lod/3000lod"
+  },
+  "zoom": [
+    1.5
+  ],
+  "scope": true,
+  "sight": false,
+  "fov": 50.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

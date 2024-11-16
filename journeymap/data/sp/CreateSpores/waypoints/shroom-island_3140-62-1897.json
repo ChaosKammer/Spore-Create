@@ -1,0 +1,22 @@
+{
+  "id": "shroom-island_3140-62-1897",
+  "name": "shroom island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10310014-waypoint-icon.png",
+  "x": 3140,
+  "y": 62,
+  "z": 1897,
+  "r": 98,
+  "g": 174,
+  "b": 130,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -10310014,
+  "customIconColor": false
+}

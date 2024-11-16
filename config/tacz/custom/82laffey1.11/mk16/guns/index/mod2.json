@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.mod2.name",
+    "display": "mk16:mod2_display",
+    "data": "mk16:mod2_data",
+    "tooltip": "mk16.gun.mod2.desc",
+    "type": "rifle",
+    "sort": 1
+}

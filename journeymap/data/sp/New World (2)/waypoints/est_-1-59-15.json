@@ -1,0 +1,22 @@
+{
+  "id": "est_-1-59-15",
+  "name": "est",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6685645-waypoint-icon.png",
+  "x": -1,
+  "y": -59,
+  "z": 15,
+  "r": 153,
+  "g": 252,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

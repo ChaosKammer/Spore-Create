@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.sr25pc.name",
+    "display": "mk16:sr25pc_display",
+    "data": "mk16:sr25pc_data",
+    "tooltip": "mk16.gun.m727bhd.desc",
+    "type": "rifle",
+    "sort": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Death-15-07-11-11-14-2024_175-90-88",
+  "name": "Death 15:07:11 11-14-2024",
+  "icon": "journeymap:ui/img/waypoint-death-icon.png",
+  "colorizedIcon": "fake:color--4015241-waypoint-death-icon.png",
+  "x": 175,
+  "y": 90,
+  "z": -88,
+  "r": 194,
+  "g": 187,
+  "b": 119,
+  "enable": true,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    "ad_astra:moon"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,11 @@
+{
+  "slot": "mk16:attachment/slot/grip",
+  // 配件的默认模型，不可为空
+  "model": "mk16:attachment/grip_geo",
+  // 配件默认模型使用的材质，不可为空
+  "texture": "mk16:attachment/uv/grip",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

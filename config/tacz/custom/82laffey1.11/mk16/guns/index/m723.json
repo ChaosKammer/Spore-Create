@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.m723.name",
+    "display": "mk16:m723_display",
+    "data": "mk16:m723_data",
+    "tooltip": "mk16.gun.m723.desc",
+    "type": "rifle",
+    "sort": 3
+}

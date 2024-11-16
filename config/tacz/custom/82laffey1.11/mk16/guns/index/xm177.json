@@ -1,0 +1,8 @@
+{
+    "name": "mk16.gun.xm177.name",
+    "display": "mk16:xm177_display",
+    "data": "mk16:xm177_data",
+    "tooltip": "mk16.gun.xm177.desc",
+    "type": "rifle",
+    "sort": 3
+}
