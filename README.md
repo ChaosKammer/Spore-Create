@@ -58,3 +58,6 @@
 	<li><a href="https://modrinth.com/mod/SzzJttH8">Timeless &amp; Classics Guns: Zero</a></li>
 	<li><a href="https://modrinth.com/mod/rxIIYO6c">Tinkers' Construct</a></li>
 	<li><a href="https://modrinth.com/mod/qANg5Jrr">e4mc</a></li>
+	<li><a href="https://modrinth.com/mod/vvuO3ImH">Curios API</a></li>
+	<li><a href="https://modrinth.com/mod/ryfyOhoP">Hex Gloop</a></li>
+	<li><a href="https://modrinth.com/mod/L8iJY5PM">Why Not Be One Item</a></li>
