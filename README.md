@@ -1,8 +1,8 @@
 ![638598725500886388](https://github.com/user-attachments/assets/730b0d7f-e939-4d23-adb2-cd98c001e56e) <br/>
 # Spore-Create - майнкрафт сборка среднего размера
 ### Главные моды - Create, Fungal Infection: Spore, Ad Astra и TACZ.
-Список модов (На 17.11.2024):
-<li><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a></li>
+Список модов (На 18.11.2024), с оптимизацией:
+	<li><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a></li>
 	<li><a href="https://modrinth.com/mod/3ufwT9JF">Ad Astra</a></li>
 	<li><a href="https://modrinth.com/mod/XQDxCBVw">Ad Astra: Giselle Addon</a></li>
 	<li><a href="https://modrinth.com/mod/EsAfCjCV">AppleSkin</a></li>
@@ -28,6 +28,11 @@
 	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a></li>
 	<li><a href="https://modrinth.com/mod/nvQzSEkH">Jade</a></li>
 	<li><a href="https://modrinth.com/mod/lfHFW1mp">Journeymap</a></li>
+	<li><a href="https://modrinth.com/mod/9Pk89J3g">Just Enough Breeding</a></li>
+	<li><a href="https://modrinth.com/mod/EO27GKs1">Just Enough Effect Descriptions</a></li>
+	<li><a href="https://modrinth.com/mod/u6dRKJwZ">Just Enough Items</a></li>
+	<li><a href="https://modrinth.com/mod/kB56GtWA">Just Enough Professions (JEP)</a></li>
+	<li><a href="https://modrinth.com/mod/uEfK2CXF">Just Enough Resources</a></li>
 	<li><a href="https://modrinth.com/mod/iAiqcykM">Just Zoom</a></li>
 	<li><a href="https://modrinth.com/mod/J81TRJWm">Konkrete</a></li>
 	<li><a href="https://modrinth.com/mod/ordsPcFz">Kotlin for Forge</a></li>
@@ -43,14 +48,12 @@
 	<li><a href="https://modrinth.com/mod/G1hIVOrD">Resourceful Lib</a></li>
 	<li><a href="https://modrinth.com/mod/M1953qlQ">Resourcefulconfig</a></li>
 	<li><a href="https://modrinth.com/mod/sk9knFPE">Rhino</a></li>
-	<li><a href="https://modrinth.com/mod/nfn13YXA">Roughly Enough Items (REI)</a></li>
-	<li><a href="https://modrinth.com/mod/V8XJ8f5f">Roughly Enough Professions</a></li>
-	<li><a href="https://modrinth.com/mod/SRDQqMfX">Roughly Enough Trades</a></li>
 	<li><a href="https://modrinth.com/mod/4ZqxOvjD">Rubidium</a></li>
 	<li><a href="https://modrinth.com/mod/oY2B1pjg">Rubidium Extra</a></li>
 	<li><a href="https://modrinth.com/mod/qyVF9oeo">Sound Physics Remastered</a></li>
 	<li><a href="https://modrinth.com/mod/X661i40C">Spore</a></li>
 	<li><a href="https://modrinth.com/mod/iRfIGC1s">Starlight</a></li>
+	<li><a href="https://modrinth.com/mod/DhBtjMiv">TConJEI</a></li>
 	<li><a href="https://modrinth.com/mod/SzzJttH8">Timeless &amp; Classics Guns: Zero</a></li>
 	<li><a href="https://modrinth.com/mod/rxIIYO6c">Tinkers' Construct</a></li>
 	<li><a href="https://modrinth.com/mod/qANg5Jrr">e4mc</a></li>
