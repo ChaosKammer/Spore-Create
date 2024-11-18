@@ -39,6 +39,11 @@
   "jade:distance": null,
   "jade:block_face": null,
   "gravestone:grave": null,
+  "dynamictrees:branch": null,
+  "dynamictrees:fruit": null,
+  "dynamictrees:pod": null,
+  "dynamictrees:rooty": null,
+  "dynamictrees:rooty_water": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -78,5 +83,10 @@
   "jade:mod_name": null,
   "jade:distance": null,
   "jade:block_face": null,
-  "gravestone:grave": null
+  "gravestone:grave": null,
+  "dynamictrees:branch": null,
+  "dynamictrees:fruit": null,
+  "dynamictrees:pod": null,
+  "dynamictrees:rooty": null,
+  "dynamictrees:rooty_water": null
 }

@@ -1,0 +1,22 @@
+{
+  "id": "Портал_327-70-1042",
+  "name": "Портал",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15374319-waypoint-icon.png",
+  "x": 327,
+  "y": 70,
+  "z": 1042,
+  "r": 21,
+  "g": 104,
+  "b": 17,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

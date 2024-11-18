@@ -1,0 +1,22 @@
+{
+  "id": "Метеорит-уголь_-1014-76-580",
+  "name": "Метеорит уголь",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6741995-waypoint-icon.png",
+  "x": -1014,
+  "y": 76,
+  "z": 580,
+  "r": 153,
+  "g": 32,
+  "b": 21,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

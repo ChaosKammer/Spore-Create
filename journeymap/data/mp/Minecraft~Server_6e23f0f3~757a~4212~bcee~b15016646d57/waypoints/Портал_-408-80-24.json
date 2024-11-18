@@ -1,0 +1,22 @@
+{
+  "id": "Портал_-408-80-24",
+  "name": "Портал",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--14045779-waypoint-icon.png",
+  "x": -408,
+  "y": 80,
+  "z": 24,
+  "r": 41,
+  "g": 173,
+  "b": 173,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

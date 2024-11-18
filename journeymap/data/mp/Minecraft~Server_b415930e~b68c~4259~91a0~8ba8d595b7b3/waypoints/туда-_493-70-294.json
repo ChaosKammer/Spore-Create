@@ -1,0 +1,22 @@
+{
+  "id": "туда-_493-70-294",
+  "name": "туда*",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130849-waypoint-icon.png",
+  "x": 493,
+  "y": 70,
+  "z": 294,
+  "r": 254,
+  "g": 0,
+  "b": 223,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -15326825,
+  "customIconColor": false
+}

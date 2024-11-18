@@ -1,6 +1,6 @@
 {
-  "useMojang": true,
-  "useCrafatar": true,
+  "useMojang": false,
+  "useCrafatar": false,
   "useCustomServer": false,
   "hostCustomServer": "http://example.com",
   "useCustomServer2": false,

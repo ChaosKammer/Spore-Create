@@ -1,0 +1,22 @@
+{
+  "id": "Недоделаный-портал_63-78-207",
+  "name": "Недоделаный портал",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6372048-waypoint-icon.png",
+  "x": 63,
+  "y": 78,
+  "z": 207,
+  "r": 158,
+  "g": 197,
+  "b": 48,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

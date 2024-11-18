@@ -1,0 +1,22 @@
+{
+  "id": "367-234_2936-73-1872",
+  "name": "367,234",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5710003-waypoint-icon.png",
+  "x": 2936,
+  "y": 73,
+  "z": 1872,
+  "r": 168,
+  "g": 223,
+  "b": 77,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -5710003,
+  "customIconColor": false
+}

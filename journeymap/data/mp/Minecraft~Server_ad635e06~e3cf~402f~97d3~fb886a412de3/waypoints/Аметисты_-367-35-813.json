@@ -1,0 +1,22 @@
+{
+  "id": "Аметисты_-367-35-813",
+  "name": "Аметисты",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5046019-waypoint-icon.png",
+  "x": -367,
+  "y": -35,
+  "z": 813,
+  "r": 179,
+  "g": 0,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

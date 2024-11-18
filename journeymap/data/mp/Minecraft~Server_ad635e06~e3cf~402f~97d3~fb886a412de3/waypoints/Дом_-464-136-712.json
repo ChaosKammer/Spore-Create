@@ -1,0 +1,22 @@
+{
+  "id": "Дом_-464-136-712",
+  "name": "Дом",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--175094-waypoint-icon.png",
+  "x": -464,
+  "y": 136,
+  "z": 712,
+  "r": 253,
+  "g": 84,
+  "b": 10,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

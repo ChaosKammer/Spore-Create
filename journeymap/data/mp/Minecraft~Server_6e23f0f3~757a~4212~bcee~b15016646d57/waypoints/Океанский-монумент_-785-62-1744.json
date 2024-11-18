@@ -1,0 +1,22 @@
+{
+  "id": "Океанский-монумент_-785-62-1744",
+  "name": "Океанский монумент",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12733180-waypoint-icon.png",
+  "x": -785,
+  "y": 62,
+  "z": 1744,
+  "r": 61,
+  "g": 181,
+  "b": 4,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

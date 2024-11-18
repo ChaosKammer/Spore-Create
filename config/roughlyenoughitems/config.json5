@@ -56,7 +56,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "LIGHT",
+		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",
@@ -70,7 +70,7 @@
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
 		// Declares whether entry panel should be invisible when not searching
-		"hideEntryPanelIfIdle": false,
+		"hideEntryPanelIfIdle": true,
 		"rainbow": false,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
@@ -182,6 +182,8 @@
 					"minecraft:plugins/wax_scraping",
 					"minecraft:plugins/oxidizing",
 					"minecraft:plugins/oxidation_scraping",
+					"roughly_enough_trades:plugins/villager_trades",
+					"roughlyenoughprofessions:plugins/profession",
 					"roughlyenoughitems:plugins/information",
 					"minecraft:plugins/tag"
 				],
@@ -193,7 +195,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			]
 		}
 	}

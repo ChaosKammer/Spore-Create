@@ -1,0 +1,22 @@
+{
+  "id": "Ифриты_928-63-2368",
+  "name": "Ифриты",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6669691-waypoint-icon.png",
+  "x": 928,
+  "y": 63,
+  "z": 2368,
+  "r": 154,
+  "g": 58,
+  "b": 133,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
