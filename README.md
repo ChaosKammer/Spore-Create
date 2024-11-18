@@ -1,6 +1,6 @@
 ![638598725500886388](https://github.com/user-attachments/assets/730b0d7f-e939-4d23-adb2-cd98c001e56e) <br/>
 # Spore-Create - майнкрафт сборка среднего размера
-## Ты находишься в ветке с QoL модами и большим кол-вом оптимизации
+## Ты находишься в ветке с QoL модами и бо́льшим кол-вом оптимизации
 ### Главные моды - Create, Fungal Infection: Spore, Ad Astra и TACZ.
 Список модов (На 18.11.2024):
 	<li><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a></li>
