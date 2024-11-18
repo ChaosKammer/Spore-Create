@@ -52,3 +52,5 @@
 	<li><a href="https://modrinth.com/mod/vvuO3ImH">Curios API</a></li>
 	<li><a href="https://modrinth.com/mod/ryfyOhoP">Hex Gloop</a></li>
 	<li><a href="https://modrinth.com/mod/L8iJY5PM">Why Not Be One Item</a></li>
+ 	<li><a href="https://modrinth.com/mod/5sy6g3kz">Better Combat</a></li>
+	<li><a href="https://modrinth.com/mod/gedNE4y2">Player Animator</a></li>
