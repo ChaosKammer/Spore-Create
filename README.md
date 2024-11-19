@@ -55,6 +55,8 @@
 	<li><a href="https://modrinth.com/mod/X661i40C">Spore</a></li>
 	<li><a href="https://modrinth.com/mod/iRfIGC1s">Starlight</a></li>
 	<li><a href="https://modrinth.com/mod/DhBtjMiv">TConJEI</a></li>
+	<li><a href="https://modrinth.com/mod/5sy6g3kz">Better Combat</a></li>
+	<li><a href="https://modrinth.com/mod/gedNE4y2">Player Animator</a></li>
 	<li><a href="https://modrinth.com/mod/SzzJttH8">Timeless &amp; Classics Guns: Zero</a></li>
 	<li><a href="https://modrinth.com/mod/rxIIYO6c">Tinkers' Construct</a></li>
 	<li><a href="https://modrinth.com/mod/qANg5Jrr">e4mc</a></li>
